@@ -1,0 +1,521 @@
+[08-Feb-2013 14:19:29 America/New_York] PHP Warning:  require_once(/home/lanternw/public_html/SITES/funisher.com/../../../framework/yii.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/lanternw/public_html/SITES/funisher.com/index.php on line 11
+[08-Feb-2013 14:19:29 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/lanternw/public_html/SITES/funisher.com/../../../framework/yii.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lanternw/public_html/SITES/funisher.com/index.php on line 11
+[08-Feb-2013 17:34:04 America/New_York] ke
+[08-Feb-2013 17:34:05 America/New_York] ker
+[08-Feb-2013 17:34:05 America/New_York] kerb
+[08-Feb-2013 17:34:32 America/New_York] un
+[08-Feb-2013 17:34:32 America/New_York] und
+[08-Feb-2013 17:34:32 America/New_York] under
+[08-Feb-2013 17:34:33 America/New_York] under
+[08-Feb-2013 17:34:33 America/New_York] under t
+[09-Feb-2013 15:39:50 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/lanternw/public_html/SITES/funisher.com/protected/views/user/forgotpassword.php on line 3
+[09-Feb-2013 15:40:29 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/lanternw/public_html/SITES/funisher.com/protected/views/user/forgotpassword.php on line 3
+[09-Feb-2013 15:40:31 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/lanternw/public_html/SITES/funisher.com/protected/views/user/forgotpassword.php on line 3
+[09-Feb-2013 18:28:51 America/New_York] pu
+[09-Feb-2013 18:28:51 America/New_York] pun
+[09-Feb-2013 18:28:51 America/New_York] punc
+[09-Feb-2013 18:28:51 America/New_York] punch
+[09-Feb-2013 18:28:54 America/New_York] punch-
+[09-Feb-2013 18:28:54 America/New_York] punch-o
+[09-Feb-2013 18:28:54 America/New_York] punch-ou
+[09-Feb-2013 18:28:55 America/New_York] punch-out
+[10-Feb-2013 12:46:26 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/lanternw/public_html/SITES/funisher.com/protected/views/user/forgotpassword.php on line 3
+[10-Feb-2013 16:47:51 America/New_York] fa
+[10-Feb-2013 16:47:51 America/New_York] far
+[10-Feb-2013 16:47:51 America/New_York] far
+[10-Feb-2013 16:47:51 America/New_York] far c
+[10-Feb-2013 16:47:51 America/New_York] far
+[10-Feb-2013 16:47:51 America/New_York] far cr
+[10-Feb-2013 16:47:52 America/New_York] far cry
+[10-Feb-2013 16:47:52 America/New_York] far cry
+[10-Feb-2013 16:47:52 America/New_York] far cry 3
+[10-Feb-2013 16:49:05 America/New_York] fa
+[10-Feb-2013 16:49:05 America/New_York] far
+[10-Feb-2013 16:49:05 America/New_York] far
+[10-Feb-2013 16:49:05 America/New_York] far c
+[10-Feb-2013 16:49:06 America/New_York] far
+[10-Feb-2013 16:49:06 America/New_York] far cr
+[10-Feb-2013 16:49:06 America/New_York] far cry
+[10-Feb-2013 16:49:06 America/New_York] far cry
+[10-Feb-2013 16:49:06 America/New_York] far cry 3
+[10-Feb-2013 16:49:44 America/New_York] bo
+[10-Feb-2013 16:49:44 America/New_York] bor
+[10-Feb-2013 16:49:44 America/New_York] bord
+[10-Feb-2013 16:49:44 America/New_York] border
+[10-Feb-2013 16:49:44 America/New_York] borderl
+[10-Feb-2013 16:49:44 America/New_York] borderla
+[10-Feb-2013 16:49:45 America/New_York] borderl
+[10-Feb-2013 16:49:45 America/New_York] borderlad
+[10-Feb-2013 16:49:45 America/New_York] borderlads
+[10-Feb-2013 16:49:45 America/New_York] borderlad
+[10-Feb-2013 16:49:45 America/New_York] borderla
+[10-Feb-2013 16:49:46 America/New_York] borderlan
+[10-Feb-2013 16:49:46 America/New_York] borderlands
+[10-Feb-2013 16:49:46 America/New_York] borderlands
+[12-Feb-2013 13:52:42 America/New_York] an
+[12-Feb-2013 13:52:42 America/New_York] ant
+[12-Feb-2013 13:52:42 America/New_York] anti
+[12-Feb-2013 13:52:46 America/New_York] anti
+[14-Feb-2013 10:36:01 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=3DO
+[14-Feb-2013 10:36:02 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Amiga
+[14-Feb-2013 10:36:03 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Amstrad+CPC
+[14-Feb-2013 10:36:03 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Android
+[14-Feb-2013 10:36:03 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Arcade
+[14-Feb-2013 10:36:05 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+2600
+[14-Feb-2013 10:36:05 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+5200
+[14-Feb-2013 10:36:05 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+7800
+[14-Feb-2013 10:36:06 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+Jaguar
+[14-Feb-2013 10:36:06 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+Jaguar+CD
+[14-Feb-2013 10:36:06 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+XE
+[14-Feb-2013 10:36:06 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Colecovision
+[14-Feb-2013 10:36:07 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Commodore+64
+[14-Feb-2013 10:36:08 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Intellivision
+[14-Feb-2013 10:36:08 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=IOS
+[14-Feb-2013 10:36:08 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Mac+OS
+[14-Feb-2013 10:36:09 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Microsoft+Xbox
+[14-Feb-2013 10:36:10 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Microsoft+Xbox+360
+[14-Feb-2013 10:36:12 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=NeoGeo
+[14-Feb-2013 10:36:12 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+3DS
+[14-Feb-2013 10:36:13 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+64
+[14-Feb-2013 10:36:14 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+DS
+[14-Feb-2013 10:36:16 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Entertainment+System+%28NES%29
+[14-Feb-2013 10:36:18 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Game+Boy
+[14-Feb-2013 10:36:18 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Game+Boy+Advance
+[14-Feb-2013 10:36:20 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Game+Boy+Color
+[14-Feb-2013 10:36:20 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+GameCube
+[14-Feb-2013 10:36:22 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Virtual+Boy
+[14-Feb-2013 10:36:22 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Wii
+[14-Feb-2013 10:36:23 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Wii+U
+[14-Feb-2013 10:36:24 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=PC
+[14-Feb-2013 10:36:30 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Philips+CD-i
+[14-Feb-2013 10:36:30 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+32X
+[14-Feb-2013 10:36:31 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+CD
+[14-Feb-2013 10:36:31 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Dreamcast
+[14-Feb-2013 10:36:32 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Game+Gear
+[14-Feb-2013 10:36:32 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Genesis
+[14-Feb-2013 10:36:34 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Master+System
+[14-Feb-2013 10:36:35 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Mega+Drive
+[14-Feb-2013 10:36:36 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Saturn
+[14-Feb-2013 10:36:37 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sinclair+ZX+Spectrum
+[14-Feb-2013 10:36:37 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation
+[14-Feb-2013 10:36:40 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation+2
+[14-Feb-2013 10:36:43 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation+3
+[14-Feb-2013 10:36:45 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation+Vita
+[14-Feb-2013 10:36:45 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+PSP
+[14-Feb-2013 10:36:46 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Super+Nintendo+%28SNES%29
+[14-Feb-2013 10:36:49 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=TurboGrafx+16
+[16-Feb-2013 22:32:52 America/New_York] Li
+[16-Feb-2013 22:32:52 America/New_York] Lit
+[16-Feb-2013 22:32:52 America/New_York] Litl
+[16-Feb-2013 22:32:52 America/New_York] Litle
+[16-Feb-2013 22:32:53 America/New_York] Litl
+[16-Feb-2013 22:32:53 America/New_York] Lit
+[16-Feb-2013 22:32:53 America/New_York] Littl
+[16-Feb-2013 22:32:53 America/New_York] Little
+[16-Feb-2013 22:32:54 America/New_York] Little B
+[16-Feb-2013 22:32:54 America/New_York] Little Bi
+[16-Feb-2013 22:32:54 America/New_York] Little Big
+[16-Feb-2013 22:32:55 America/New_York] Little Big
+[16-Feb-2013 22:32:56 America/New_York] Little Big P
+[16-Feb-2013 22:32:56 America/New_York] Little Big Pl
+[16-Feb-2013 22:32:56 America/New_York] Little Big Pla
+[16-Feb-2013 22:32:56 America/New_York] Little Big Plan
+[16-Feb-2013 22:32:57 America/New_York] Little Big Plane
+[16-Feb-2013 22:32:57 America/New_York] Little Big Planet
+[16-Feb-2013 22:32:58 America/New_York] Little Big Planet 2
+[16-Feb-2013 22:33:00 America/New_York] Little Big Planet 2
+[16-Feb-2013 22:33:06 America/New_York] Su
+[16-Feb-2013 22:33:06 America/New_York] Sup
+[16-Feb-2013 22:33:06 America/New_York] Super
+[16-Feb-2013 22:33:06 America/New_York] Super
+[16-Feb-2013 22:33:07 America/New_York] Super S
+[16-Feb-2013 22:33:07 America/New_York] Super St
+[16-Feb-2013 22:33:07 America/New_York] Super Stre
+[16-Feb-2013 22:33:07 America/New_York] Super Street
+[16-Feb-2013 22:33:08 America/New_York] Super Street
+[16-Feb-2013 22:33:08 America/New_York] Super Street F
+[16-Feb-2013 22:33:08 America/New_York] Super Street Fi
+[16-Feb-2013 22:33:08 America/New_York] Super Street Figh
+[16-Feb-2013 22:33:08 America/New_York] Super Street Fight
+[16-Feb-2013 22:33:09 America/New_York] Super Street Fighter
+[16-Feb-2013 22:33:09 America/New_York] Super Street Fighter
+[16-Feb-2013 22:33:09 America/New_York] Super Street Fighter I
+[16-Feb-2013 22:33:10 America/New_York] Super Street Fighter IV
+[16-Feb-2013 22:33:41 America/New_York] Qu
+[16-Feb-2013 22:33:41 America/New_York] Quan
+[16-Feb-2013 22:33:42 America/New_York] Quant
+[16-Feb-2013 22:33:45 America/New_York] Quantu
+[16-Feb-2013 22:33:45 America/New_York] Quantum
+[16-Feb-2013 22:33:56 America/New_York] Pay
+[16-Feb-2013 22:33:56 America/New_York] Payd
+[16-Feb-2013 22:33:58 America/New_York] Pay
+[16-Feb-2013 22:33:59 America/New_York] PayD
+[16-Feb-2013 22:34:00 America/New_York] Pay
+[16-Feb-2013 22:34:00 America/New_York] Pay
+[16-Feb-2013 22:34:01 America/New_York] Pay D
+[16-Feb-2013 22:34:02 America/New_York] Pay
+[16-Feb-2013 22:34:02 America/New_York] Pay
+[16-Feb-2013 22:34:02 America/New_York] Pa
+[16-Feb-2013 22:34:41 America/New_York] Sy
+[16-Feb-2013 22:34:41 America/New_York] Sys
+[16-Feb-2013 22:34:41 America/New_York] Syste
+[16-Feb-2013 22:34:41 America/New_York] System
+[16-Feb-2013 22:34:56 America/New_York] Sy
+[16-Feb-2013 22:34:56 America/New_York] Sys
+[20-Feb-2013 08:59:10 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=3DO
+[20-Feb-2013 08:59:10 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Amiga
+[20-Feb-2013 08:59:12 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Amstrad+CPC
+[20-Feb-2013 08:59:12 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Android
+[20-Feb-2013 08:59:12 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Arcade
+[20-Feb-2013 08:59:14 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+2600
+[20-Feb-2013 08:59:14 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+5200
+[20-Feb-2013 08:59:15 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+7800
+[20-Feb-2013 08:59:15 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+Jaguar
+[20-Feb-2013 08:59:15 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+Jaguar+CD
+[20-Feb-2013 08:59:15 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+XE
+[20-Feb-2013 08:59:15 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Colecovision
+[20-Feb-2013 08:59:16 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Commodore+64
+[20-Feb-2013 08:59:17 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Intellivision
+[20-Feb-2013 08:59:17 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=IOS
+[20-Feb-2013 08:59:17 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Mac+OS
+[20-Feb-2013 08:59:17 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Microsoft+Xbox
+[20-Feb-2013 08:59:19 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Microsoft+Xbox+360
+[20-Feb-2013 08:59:21 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=NeoGeo
+[20-Feb-2013 08:59:21 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+3DS
+[20-Feb-2013 08:59:22 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+64
+[20-Feb-2013 08:59:23 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+DS
+[20-Feb-2013 08:59:25 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Entertainment+System+%28NES%29
+[20-Feb-2013 08:59:28 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Game+Boy
+[20-Feb-2013 08:59:28 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Game+Boy+Advance
+[20-Feb-2013 08:59:30 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Game+Boy+Color
+[20-Feb-2013 08:59:30 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+GameCube
+[20-Feb-2013 08:59:31 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Virtual+Boy
+[20-Feb-2013 08:59:32 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Wii
+[20-Feb-2013 08:59:34 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Wii+U
+[20-Feb-2013 08:59:34 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=PC
+[20-Feb-2013 08:59:40 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Philips+CD-i
+[20-Feb-2013 08:59:41 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+32X
+[20-Feb-2013 08:59:41 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+CD
+[20-Feb-2013 08:59:41 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Dreamcast
+[20-Feb-2013 08:59:42 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Game+Gear
+[20-Feb-2013 08:59:42 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Genesis
+[20-Feb-2013 08:59:45 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Master+System
+[20-Feb-2013 08:59:47 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Mega+Drive
+[20-Feb-2013 08:59:47 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Saturn
+[20-Feb-2013 08:59:48 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sinclair+ZX+Spectrum
+[20-Feb-2013 08:59:48 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation
+[20-Feb-2013 08:59:52 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation+2
+[20-Feb-2013 08:59:55 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation+3
+[20-Feb-2013 08:59:58 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation+Vita
+[20-Feb-2013 08:59:59 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+PSP
+[20-Feb-2013 08:59:59 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Super+Nintendo+%28SNES%29
+[20-Feb-2013 09:00:03 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=TurboGrafx+16
+[22-Feb-2013 08:50:28 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=3DO
+[22-Feb-2013 08:50:28 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Amiga
+[22-Feb-2013 08:50:30 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Amstrad+CPC
+[22-Feb-2013 08:50:31 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Android
+[22-Feb-2013 08:50:31 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Arcade
+[22-Feb-2013 08:50:33 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+2600
+[22-Feb-2013 08:50:35 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+5200
+[22-Feb-2013 08:50:35 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+7800
+[22-Feb-2013 08:50:36 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+Jaguar
+[22-Feb-2013 08:50:36 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+Jaguar+CD
+[22-Feb-2013 08:50:36 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+XE
+[22-Feb-2013 08:50:37 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Colecovision
+[22-Feb-2013 08:50:37 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Commodore+64
+[22-Feb-2013 08:50:38 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Intellivision
+[22-Feb-2013 08:50:39 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=IOS
+[22-Feb-2013 08:50:39 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Mac+OS
+[22-Feb-2013 08:50:39 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Microsoft+Xbox
+[22-Feb-2013 08:50:41 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Microsoft+Xbox+360
+[22-Feb-2013 08:50:45 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=NeoGeo
+[22-Feb-2013 08:50:46 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+3DS
+[22-Feb-2013 08:50:47 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+64
+[22-Feb-2013 08:50:48 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+DS
+[22-Feb-2013 08:50:52 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Entertainment+System+%28NES%29
+[22-Feb-2013 08:50:56 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Game+Boy
+[22-Feb-2013 08:50:57 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Game+Boy+Advance
+[22-Feb-2013 08:50:59 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Game+Boy+Color
+[22-Feb-2013 08:51:00 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+GameCube
+[22-Feb-2013 08:51:02 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Virtual+Boy
+[22-Feb-2013 08:51:02 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Wii
+[22-Feb-2013 08:51:06 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Wii+U
+[22-Feb-2013 08:51:06 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=PC
+[22-Feb-2013 08:51:15 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Philips+CD-i
+[22-Feb-2013 08:51:15 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+32X
+[22-Feb-2013 08:51:16 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+CD
+[22-Feb-2013 08:51:16 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Dreamcast
+[22-Feb-2013 08:51:17 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Game+Gear
+[22-Feb-2013 08:51:17 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Genesis
+[22-Feb-2013 08:51:21 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Master+System
+[22-Feb-2013 08:51:23 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Mega+Drive
+[22-Feb-2013 08:51:24 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Saturn
+[22-Feb-2013 08:51:26 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sinclair+ZX+Spectrum
+[22-Feb-2013 08:51:26 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation
+[22-Feb-2013 08:51:30 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation+2
+[22-Feb-2013 08:51:34 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation+3
+[22-Feb-2013 08:51:38 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation+Vita
+[22-Feb-2013 08:51:38 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+PSP
+[22-Feb-2013 08:51:39 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Super+Nintendo+%28SNES%29
+[22-Feb-2013 08:51:44 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=TurboGrafx+16
+[22-Feb-2013 08:52:26 America/New_York] wa
+[22-Feb-2013 08:52:27 America/New_York] wal
+[22-Feb-2013 08:52:27 America/New_York] walk
+[22-Feb-2013 08:52:27 America/New_York] walkin
+[22-Feb-2013 08:52:27 America/New_York] walking
+[22-Feb-2013 08:52:34 America/New_York] walking
+[22-Feb-2013 08:52:48 America/New_York] walking
+[22-Feb-2013 08:52:57 America/New_York] walking
+[23-Feb-2013 08:03:34 America/New_York] da
+[23-Feb-2013 08:03:34 America/New_York] day
+[23-Feb-2013 08:03:34 America/New_York] day i
+[23-Feb-2013 08:03:35 America/New_York] day
+[23-Feb-2013 08:03:35 America/New_York] day o
+[23-Feb-2013 08:03:35 America/New_York] day of
+[23-Feb-2013 08:03:36 America/New_York] day of th
+[23-Feb-2013 08:03:36 America/New_York] day of the
+[24-Feb-2013 10:22:38 America/New_York] ma
+[24-Feb-2013 10:22:39 America/New_York] max
+[24-Feb-2013 10:22:39 America/New_York] max p
+[24-Feb-2013 10:22:39 America/New_York] max pa
+[24-Feb-2013 10:22:39 America/New_York] max pay
+[24-Feb-2013 10:22:39 America/New_York] max payn
+[24-Feb-2013 10:22:40 America/New_York] max payne
+[24-Feb-2013 10:22:40 America/New_York] max payne 3
+[24-Feb-2013 17:05:00 America/New_York] va
+[24-Feb-2013 17:05:00 America/New_York] van
+[24-Feb-2013 17:05:01 America/New_York] vanqu
+[24-Feb-2013 17:05:01 America/New_York] vanqui
+[24-Feb-2013 17:05:01 America/New_York] vanquish
+[24-Feb-2013 17:05:26 America/New_York] ra
+[24-Feb-2013 17:05:26 America/New_York] rat
+[24-Feb-2013 17:05:26 America/New_York] ratch
+[24-Feb-2013 17:05:26 America/New_York] ratchet
+[24-Feb-2013 17:07:03 America/New_York] li
+[24-Feb-2013 17:07:03 America/New_York] lit
+[24-Feb-2013 17:07:03 America/New_York] litt
+[24-Feb-2013 17:07:03 America/New_York] littl
+[24-Feb-2013 17:07:03 America/New_York] little
+[24-Feb-2013 17:07:04 America/New_York] little bi
+[24-Feb-2013 17:07:05 America/New_York] little big
+[24-Feb-2013 17:07:07 America/New_York] little big
+[24-Feb-2013 17:07:07 America/New_York] little big p
+[24-Feb-2013 17:07:07 America/New_York] little big pal
+[24-Feb-2013 17:07:08 America/New_York] little big pa
+[24-Feb-2013 17:07:08 America/New_York] little big p
+[24-Feb-2013 17:07:08 America/New_York] little big
+[24-Feb-2013 17:07:08 America/New_York] little bi
+[24-Feb-2013 17:07:08 America/New_York] little b
+[24-Feb-2013 17:07:09 America/New_York] little
+[24-Feb-2013 17:07:09 America/New_York] littleb
+[24-Feb-2013 17:07:09 America/New_York] littlebi
+[24-Feb-2013 17:07:09 America/New_York] littlebig
+[24-Feb-2013 17:07:10 America/New_York] littlebigp
+[24-Feb-2013 17:07:10 America/New_York] littlebigpl
+[24-Feb-2013 17:07:10 America/New_York] littlebigpla
+[24-Feb-2013 17:07:18 America/New_York] littlebigplan
+[24-Feb-2013 17:07:18 America/New_York] littlebigplanet
+[25-Feb-2013 08:38:42 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=3DO
+[25-Feb-2013 08:38:43 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Amiga
+[25-Feb-2013 08:38:44 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Amstrad+CPC
+[25-Feb-2013 08:38:44 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Android
+[25-Feb-2013 08:38:44 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Arcade
+[25-Feb-2013 08:38:46 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+2600
+[25-Feb-2013 08:38:47 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+5200
+[25-Feb-2013 08:38:48 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+7800
+[25-Feb-2013 08:38:48 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+Jaguar
+[25-Feb-2013 08:38:48 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+Jaguar+CD
+[25-Feb-2013 08:38:48 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+XE
+[25-Feb-2013 08:38:48 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Colecovision
+[25-Feb-2013 08:38:50 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Commodore+64
+[25-Feb-2013 08:38:51 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Intellivision
+[25-Feb-2013 08:38:52 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=IOS
+[25-Feb-2013 08:38:52 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Mac+OS
+[25-Feb-2013 08:38:52 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Microsoft+Xbox
+[25-Feb-2013 08:38:53 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Microsoft+Xbox+360
+[25-Feb-2013 08:38:58 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=NeoGeo
+[25-Feb-2013 08:38:58 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+3DS
+[25-Feb-2013 08:38:59 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+64
+[25-Feb-2013 08:39:01 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+DS
+[25-Feb-2013 08:39:02 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Entertainment+System+%28NES%29
+[25-Feb-2013 08:39:05 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Game+Boy
+[25-Feb-2013 08:39:05 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Game+Boy+Advance
+[25-Feb-2013 08:39:07 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Game+Boy+Color
+[25-Feb-2013 08:39:08 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+GameCube
+[25-Feb-2013 08:39:09 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Virtual+Boy
+[25-Feb-2013 08:39:10 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Wii
+[25-Feb-2013 08:39:13 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Wii+U
+[25-Feb-2013 08:39:13 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=PC
+[25-Feb-2013 08:39:20 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Philips+CD-i
+[25-Feb-2013 08:39:20 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+32X
+[25-Feb-2013 08:39:20 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+CD
+[25-Feb-2013 08:39:21 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Dreamcast
+[25-Feb-2013 08:39:23 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Game+Gear
+[25-Feb-2013 08:39:23 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Genesis
+[25-Feb-2013 08:39:26 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Master+System
+[25-Feb-2013 08:39:27 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Mega+Drive
+[25-Feb-2013 08:39:28 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Saturn
+[25-Feb-2013 08:39:29 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sinclair+ZX+Spectrum
+[25-Feb-2013 08:39:29 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation
+[25-Feb-2013 08:39:33 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation+2
+[25-Feb-2013 08:39:36 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation+3
+[25-Feb-2013 08:39:39 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation+Vita
+[25-Feb-2013 08:39:39 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+PSP
+[25-Feb-2013 08:39:40 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Super+Nintendo+%28SNES%29
+[25-Feb-2013 08:39:43 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=TurboGrafx+16
+[26-Feb-2013 08:43:55 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=3DO
+[26-Feb-2013 08:43:56 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Amiga
+[26-Feb-2013 08:43:57 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Amstrad+CPC
+[26-Feb-2013 08:43:57 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Android
+[26-Feb-2013 08:43:57 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Arcade
+[26-Feb-2013 08:43:59 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+2600
+[26-Feb-2013 08:44:00 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+5200
+[26-Feb-2013 08:44:00 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+7800
+[26-Feb-2013 08:44:00 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+Jaguar
+[26-Feb-2013 08:44:00 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+Jaguar+CD
+[26-Feb-2013 08:44:00 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+XE
+[26-Feb-2013 08:44:01 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Colecovision
+[26-Feb-2013 08:44:01 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Commodore+64
+[26-Feb-2013 08:44:02 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Intellivision
+[26-Feb-2013 08:44:03 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=IOS
+[26-Feb-2013 08:44:03 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Mac+OS
+[26-Feb-2013 08:44:03 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Microsoft+Xbox
+[26-Feb-2013 08:44:05 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Microsoft+Xbox+360
+[26-Feb-2013 08:44:09 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=NeoGeo
+[26-Feb-2013 08:44:09 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+3DS
+[26-Feb-2013 08:44:10 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+64
+[26-Feb-2013 08:44:11 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+DS
+[26-Feb-2013 08:44:13 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Entertainment+System+%28NES%29
+[26-Feb-2013 08:44:16 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Game+Boy
+[26-Feb-2013 08:44:16 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Game+Boy+Advance
+[26-Feb-2013 08:44:18 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Game+Boy+Color
+[26-Feb-2013 08:44:19 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+GameCube
+[26-Feb-2013 08:44:21 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Virtual+Boy
+[26-Feb-2013 08:44:21 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Wii
+[26-Feb-2013 08:44:24 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Wii+U
+[26-Feb-2013 08:44:24 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=PC
+[26-Feb-2013 08:44:34 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Philips+CD-i
+[26-Feb-2013 08:44:34 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+32X
+[26-Feb-2013 08:44:34 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+CD
+[26-Feb-2013 08:44:35 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Dreamcast
+[26-Feb-2013 08:44:36 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Game+Gear
+[26-Feb-2013 08:44:37 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Genesis
+[26-Feb-2013 08:44:40 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Master+System
+[26-Feb-2013 08:44:41 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Mega+Drive
+[26-Feb-2013 08:44:41 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Saturn
+[26-Feb-2013 08:44:42 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sinclair+ZX+Spectrum
+[26-Feb-2013 08:44:42 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation
+[26-Feb-2013 08:44:47 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation+2
+[26-Feb-2013 08:44:51 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation+3
+[26-Feb-2013 08:44:54 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation+Vita
+[26-Feb-2013 08:44:54 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+PSP
+[26-Feb-2013 08:44:55 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Super+Nintendo+%28SNES%29
+[26-Feb-2013 08:44:58 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=TurboGrafx+16
+[27-Feb-2013 09:22:43 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=3DO
+[27-Feb-2013 09:22:43 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Amiga
+[27-Feb-2013 09:22:45 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Amstrad+CPC
+[27-Feb-2013 09:22:45 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Android
+[27-Feb-2013 09:22:45 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Arcade
+[27-Feb-2013 09:22:47 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+2600
+[27-Feb-2013 09:22:47 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+5200
+[27-Feb-2013 09:22:48 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+7800
+[27-Feb-2013 09:22:48 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+Jaguar
+[27-Feb-2013 09:22:48 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+Jaguar+CD
+[27-Feb-2013 09:22:48 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Atari+XE
+[27-Feb-2013 09:22:49 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Colecovision
+[27-Feb-2013 09:22:49 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Commodore+64
+[27-Feb-2013 09:22:50 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Intellivision
+[27-Feb-2013 09:22:51 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=IOS
+[27-Feb-2013 09:22:51 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Mac+OS
+[27-Feb-2013 09:22:51 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Microsoft+Xbox
+[27-Feb-2013 09:22:53 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Microsoft+Xbox+360
+[27-Feb-2013 09:22:56 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=NeoGeo
+[27-Feb-2013 09:22:56 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+3DS
+[27-Feb-2013 09:22:57 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+64
+[27-Feb-2013 09:22:58 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+DS
+[27-Feb-2013 09:23:01 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Entertainment+System+%28NES%29
+[27-Feb-2013 09:23:04 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Game+Boy
+[27-Feb-2013 09:23:04 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Game+Boy+Advance
+[27-Feb-2013 09:23:06 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Game+Boy+Color
+[27-Feb-2013 09:23:06 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+GameCube
+[27-Feb-2013 09:23:08 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Virtual+Boy
+[27-Feb-2013 09:23:08 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Wii
+[27-Feb-2013 09:23:11 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Nintendo+Wii+U
+[27-Feb-2013 09:23:11 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=PC
+[27-Feb-2013 09:23:18 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Philips+CD-i
+[27-Feb-2013 09:23:18 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+32X
+[27-Feb-2013 09:23:18 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+CD
+[27-Feb-2013 09:23:19 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Dreamcast
+[27-Feb-2013 09:23:19 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Game+Gear
+[27-Feb-2013 09:23:20 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Genesis
+[27-Feb-2013 09:23:22 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Master+System
+[27-Feb-2013 09:23:23 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Mega+Drive
+[27-Feb-2013 09:23:23 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sega+Saturn
+[27-Feb-2013 09:23:25 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sinclair+ZX+Spectrum
+[27-Feb-2013 09:23:25 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation
+[27-Feb-2013 09:23:28 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation+2
+[27-Feb-2013 09:23:32 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation+3
+[27-Feb-2013 09:23:34 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+Playstation+Vita
+[27-Feb-2013 09:23:35 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Sony+PSP
+[27-Feb-2013 09:23:36 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=Super+Nintendo+%28SNES%29
+[27-Feb-2013 09:23:39 America/New_York] http://thegamesdb.net/api/PlatformGames.php?platform=TurboGrafx+16
+[27-Feb-2013 19:03:05 America/New_York] ba
+[27-Feb-2013 19:03:05 America/New_York] bas
+[27-Feb-2013 19:03:05 America/New_York] bast
+[27-Feb-2013 19:03:06 America/New_York] bastion
+[01-Mar-2013 13:35:03 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so' - /usr/lib/php/extensions/no-debug-non-zts-20090626/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-Mar-2013 13:35:03 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/extensions/no-debug-non-zts-20090626/imagick.so' - /usr/lib/php/extensions/no-debug-non-zts-20090626/imagick.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-Mar-2013 13:35:03 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/extensions/no-debug-non-zts-20090626/xcache.so' - /usr/lib/php/extensions/no-debug-non-zts-20090626/xcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-Mar-2013 13:35:03 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/lib/php/extensions/no-debug-non-zts-20090626/mysqli.so' - /usr/lib/php/extensions/no-debug-non-zts-20090626/mysqli.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-Mar-2013 19:55:58 America/New_York] ci
+[01-Mar-2013 19:55:59 America/New_York] civ
+[01-Mar-2013 19:55:59 America/New_York] civi
+[01-Mar-2013 19:55:59 America/New_York] civil
+[01-Mar-2013 19:55:59 America/New_York] civili
+[01-Mar-2013 19:56:00 America/New_York] civiliz
+[01-Mar-2013 19:56:01 America/New_York] civiliza
+[02-Mar-2013 04:14:56 America/New_York] un
+[02-Mar-2013 04:14:56 America/New_York] unch
+[02-Mar-2013 04:14:56 America/New_York] uncha
+[02-Mar-2013 04:14:56 America/New_York] unchar
+[02-Mar-2013 04:14:56 America/New_York] unchart
+[02-Mar-2013 04:14:56 America/New_York] uncharte
+[02-Mar-2013 04:14:57 America/New_York] uncharted
+[02-Mar-2013 04:15:02 America/New_York] uncharted
+[02-Mar-2013 04:15:02 America/New_York] uncharted v
+[02-Mar-2013 04:15:02 America/New_York] uncharted vi
+[02-Mar-2013 04:15:02 America/New_York] uncharted vit
+[02-Mar-2013 04:15:02 America/New_York] uncharted vita
+[02-Mar-2013 04:15:03 America/New_York] uncharted vit
+[02-Mar-2013 04:15:04 America/New_York] uncharted vi
+[02-Mar-2013 04:15:04 America/New_York] uncharted v
+[02-Mar-2013 04:15:04 America/New_York] uncharted
+[02-Mar-2013 04:15:05 America/New_York] uncharted
+[03-Mar-2013 09:15:30 America/New_York] to
+[03-Mar-2013 09:15:30 America/New_York] tom
+[03-Mar-2013 09:15:31 America/New_York] tomb
+[03-Mar-2013 09:15:31 America/New_York] tomb ra
+[03-Mar-2013 09:15:31 America/New_York] tomb rai
+[03-Mar-2013 09:15:31 America/New_York] tomb raid
+[03-Mar-2013 09:15:32 America/New_York] tomb raider
+[03-Mar-2013 09:20:03 America/New_York] tom
+[03-Mar-2013 09:20:03 America/New_York] tomb
+[03-Mar-2013 09:20:04 America/New_York] tomb ra
+[03-Mar-2013 09:20:04 America/New_York] tomb rai
+[03-Mar-2013 09:20:04 America/New_York] tomb raid
+[03-Mar-2013 09:20:04 America/New_York] tomb raider
+[03-Mar-2013 09:22:21 America/New_York] tomb raider
+[03-Mar-2013 09:22:22 America/New_York] tomb raider (
+[03-Mar-2013 09:22:23 America/New_York] tomb raider (x
+[03-Mar-2013 09:22:24 America/New_York] tomb raider (
+[03-Mar-2013 09:22:25 America/New_York] tomb raider (3
+[03-Mar-2013 09:22:26 America/New_York] tomb raider (
+[03-Mar-2013 09:22:27 America/New_York] tomb raider
+[03-Mar-2013 09:22:30 America/New_York] To
+[03-Mar-2013 09:22:30 America/New_York] Tom
+[03-Mar-2013 09:22:30 America/New_York] Tomb
+[03-Mar-2013 09:22:31 America/New_York] Tomb R
+[03-Mar-2013 09:22:31 America/New_York] Tomb Ra
+[03-Mar-2013 09:22:31 America/New_York] Tomb Rai
+[03-Mar-2013 09:22:31 America/New_York] Tomb Raid
+[03-Mar-2013 09:22:31 America/New_York] Tomb Raider

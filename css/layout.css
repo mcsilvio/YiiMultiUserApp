@@ -1,0 +1,45 @@
+#topBar{
+	height: 150px;
+	background: #2d2e2d;
+	background-image: url(../images/headertile.gif);
+	background-repeat: repeat;
+	
+}
+
+.search{
+	text-align: right;
+}
+
+#header{
+}
+
+.leaderboard{
+	
+	margin: auto;
+	
+	width: 720px;
+}
+
+#pageBar{
+	margin-top: 0px;
+	padding-top: 15px;
+	padding-bottom: 40px;
+	min-height: 400px;
+	background-image: url(../images/bg-img7.png);
+	background-repeat: repeat;
+	border-bottom: 15px solid #222222;
+	
+}
+
+#logo{
+	float: left;
+	margin-top: 20px;
+}
+
+#content{
+	background: none;
+}
+
+#footer{
+
+}
